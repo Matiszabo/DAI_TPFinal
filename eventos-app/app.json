@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tpfinal-app",
-    "slug": "tpfinal-app",
+    "name": "eventos-app",
+    "slug": "eventos-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
